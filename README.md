@@ -201,3 +201,6 @@ This repository serves as the official landing page for Euro Truck Simulator 2 M
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Euro Truck Simulator 2 Mega Tuning Mod today!**
+
+---
+**Last updated:** 2026-11-07 17:32:13 UTC
